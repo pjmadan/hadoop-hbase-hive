@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="hadoop-hive-hbase" />
+        <module name="com.test.hadoop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hadoop-hive-hbase" target="1.5" />
+      <module name="com.test.hadoop" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

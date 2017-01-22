@@ -1,4 +1,4 @@
-package hadoop-hbase-hive;
+package hadoop.hbase.hive;
 
 /**
  * Hello world!

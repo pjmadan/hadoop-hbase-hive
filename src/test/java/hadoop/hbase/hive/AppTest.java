@@ -1,4 +1,4 @@
-package hadoop-hbase-hive;
+package hadoop.hbase.hive-hbase-hive;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
