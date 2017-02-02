@@ -1,4 +1,6 @@
-package hadoop.hbase.hive-hbase-hive;
+package hadoop.hbase.hive;
+
+import junit.framework.TestSuite;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
@@ -33,6 +35,6 @@ public class AppTest
      */
     public void testApp()
     {
-        assertTrue( true );
+        assert( true );
     }
 }
